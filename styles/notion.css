@@ -163,7 +163,6 @@
 
 .notion-title {
   display: block;
-  text-align: center;
 }
 
 .notion-collection-row {
@@ -186,12 +185,14 @@
   min-height: 23px;
 }
 
+/* 
 .notion-page-cover-wrapper,
 .notion-page-cover-wrapper span,
 .notion-page-cover-wrapper img {
   max-width: 1200px !important;
   border-radius: 24px;
 }
+*/
 
 .notion-page-cover-wrapper {
   box-shadow: 2px 2px 8px 4px rgba(15, 15, 15, 0.1);
@@ -382,3 +383,11 @@
 .notion-block-260baa77f1e1428b97fb14ac99c7c385 {
   display: none;
 }
+
+.hide,
+.notion-aside,
+.styles_githubCorner__7QjNo {
+  visibility: hidden !important;
+  display: none !important;
+}
+

@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'M Ʌ R C .ai',
+  name: 'M Ʌ R C',
   domain: 'btcf.maro.ai',
-  author: 'M Ʌ R C',
+  author: 'M Ʌ R C  .ai',
 
   // open graph metadata (optional)
   description: 'Digital Product Optimist, Surf Minimalist & ₿itcoin Rationalist',
