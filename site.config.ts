@@ -9,8 +9,8 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Hi, my nym is  M Ʌ R C',
-  domain: 'btc.maro.ai',
+  name: 'M Ʌ R C .ai',
+  domain: 'btcf.maro.ai',
   author: 'M Ʌ R C',
 
   // open graph metadata (optional)

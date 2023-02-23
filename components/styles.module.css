@@ -217,3 +217,10 @@
 .hidden {
   visibility: hidden;
 }
+
+.hide,
+.notion-aside,
+.styles_githubCorner__7QjNo {
+  visibility: hidden !important;
+  display: none !important;
+}
